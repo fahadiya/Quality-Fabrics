@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 1140px;
+  width: 100%;
+  /* background-color: aquamarine; */
+}
+
+.head-container {
+  width: 100%;
+  overflow-x: hidden;
+  /* display: flex; */
+  /* justify-items: center; */
+  /* justify-content:space-between; */
+
+
+}
+
+.hero-content h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.container1 {
+  display: flex;
+  width: 1400px;
+  background-color: blue;
+  /* height: 100px; */
+
+}
+
+.container {
+  width: 100%;
+  /* background-color: blue; */
+}
+
+.container img {
+  width: 100%;
+
+}
