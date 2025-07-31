@@ -3,6 +3,7 @@ import './App.css';
 import Header from "./components/Header";
 import BackgroundSection from "./components/backgroundSection";
 import AboutSection from "./components/AboutSection";
+import OurServiceSection from "./components/OurServiceSection";
 
 const App: React.FC = () => {
   return (
@@ -18,6 +19,7 @@ const App: React.FC = () => {
 
       <main>
         <AboutSection />
+        <OurServiceSection />
       </main>
     </>
   );
